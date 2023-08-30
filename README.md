@@ -22,7 +22,7 @@ This capstone project follows a structured approach, comprising the following ke
 ## 📑 Resources
 I have organized the following resources for easy access:
 
-- **Data Source**: The original Heart Disease UCI dataset can be found on [Kaggle](https://www.kaggle.com/ronitf/heart-disease-uci).
+- **Data Source**: The original Heart Disease UCI dataset can be found on [Kaggle](https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset).
 
 - **Standup Progress Presentation**: This is a [presentation](https://github.com/yourusername/BrainStation_Capstone/blob/main/reports/progress_presentation.pdf) of the progress made during development.
 
