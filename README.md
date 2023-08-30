@@ -9,7 +9,7 @@ Cardiovascular disease is a leading cause of death worldwide, and early detectio
 ## 🚀 Key Phases of the Project
 This capstone project follows a structured approach, comprising the following key phases:
 
-1. **[Data Collection](https://www.kaggle.com/ronitf/heart-disease-uci)**: The foundation of any data-driven project is access to high-quality data. For this project, we acquire the necessary data from the Heart Disease UCI dataset available on Kaggle.
+1. **Data Collection**: The data used in this project was obtained from the Behavioral Risk Factor Surveillance System (BRFSS) dataset, which was collected by the Centers for Disease Control and Prevention (CDC). The dataset contains information on various health-related behaviors, chronic health conditions, and use of preventive services, making it a valuable resource for predicting cardiovascular disease.
 
 2. **[Data Preprocessing](https://github.com/yourusername/BrainStation_Capstone/blob/main/notebooks/data_preprocessing.ipynb)**: In this notebook, we will perform data cleaning, feature selection, and feature engineering to prepare the data for modeling. Our main goals here are to remove missing values, handle outliers, and transform the data into a suitable format for machine learning algorithms.
 
