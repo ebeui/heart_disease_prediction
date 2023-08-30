@@ -1,7 +1,7 @@
 # Cardiovascular Disease Prediction
 
 ## Overview <img align="right" src="heart.png">
-Welcome to my capstone project for BrainStation — a machine learning model for predicting cardiovascular disease. The primary goal of this project is to create a predictive model that can accurately classify patients as either having or not having cardiovascular disease based on their medical history and health metrics. By leveraging data science and machine learning techniques, we can analyze patients' health data and identify patterns that are indicative of cardiovascular disease, potentially leading to earlier diagnosis and better treatment outcomes.
+A machine learning model for predicting cardiovascular disease. The primary goal of this project is to create a predictive model that can accurately classify patients as either having or not having cardiovascular disease based on their medical history and health metrics. By leveraging data science and machine learning techniques, we can analyze patients' health data and identify patterns that are indicative of cardiovascular disease, potentially leading to earlier diagnosis and better treatment outcomes.
 
 ## 💭 Why Cardiovascular Disease Prediction?
 Cardiovascular disease is a leading cause of death worldwide, and early detection is critical for effective treatment. However, identifying patients at risk of cardiovascular disease can be challenging, as it often involves analyzing multiple health metrics and medical history. A machine learning model for cardiovascular disease prediction can streamline this process and provide accurate and timely diagnoses, potentially saving lives and improving patient outcomes.
