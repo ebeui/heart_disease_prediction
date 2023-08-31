@@ -9,7 +9,7 @@ Cardiovascular disease is a leading cause of death worldwide, and early detectio
 ## 🚀 Key Phases of the Project
 This capstone project follows a structured approach, comprising the following key phases:
 
-1. **[Data Collection](https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset)**: The **[data](https://www.cdc.gov/brfss/annual_data/annual_2021.html)** used in this project was obtained from the Behavioral Risk Factor Surveillance System (BRFSS) dataset, which was collected by the Centers for Disease Control and Prevention (CDC). The dataset contains information on various health-related behaviors, chronic health conditions, and use of preventive services, making it a valuable resource for predicting cardiovascular disease.
+1. **[Data Collection](https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset)**: The data used in this project was obtained from the Behavioral Risk Factor Surveillance System (BRFSS) dataset, which was collected by the Centers for Disease Control and Prevention (CDC). The dataset contains information on various health-related behaviors, chronic health conditions, and use of preventive services, making it a valuable resource for predicting cardiovascular disease.
 
 2. **[Data Preprocessing and EDA](https://github.com/ebeui/heart_disease_prediction/blob/main/eda_visualizations.ipynb)**: In this notebook, we will prepare the data for modeling by performing data cleaning, feature selection, and feature engineering. Our main goals are to remove missing values, handle outliers, and transform the data into a suitable format for machine learning algorithms. By using a variety of visualizations and statistical techniques, we will explore the data to extract meaningful information that will influence our decision-making throughout the development of the predictive model.
 
@@ -21,6 +21,8 @@ This capstone project follows a structured approach, comprising the following ke
 I have organized the following resources for easy access:
 
 - **Data Source**: The original Heart Disease dataset can be found on [Kaggle](https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset).
+
+- **Data Origin**: The origin of the dataset is obtained from the **[Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/annual_data/annual_2021.html)** (BRFSS) dataset, which was collected by the Centers for Disease Control and Prevention (CDC).
 
 ## 📬 Contact
 Thank you for your interest in my cardiovascular disease prediction project! If you have any questions or suggestions or simply want to discuss anything related to the project, please don't hesitate to reach out through this GitHub repository or via email at [dianengalu@gmail.com](mailto:dianengalu@gmail.com). I'm excited to share this project with the community and look forward to receiving valuable feedback.
