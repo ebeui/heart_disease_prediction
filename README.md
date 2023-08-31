@@ -11,7 +11,7 @@ This capstone project follows a structured approach, comprising the following ke
 
 1. **[Data Collection](https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset)**: The data used in this project was obtained from the Behavioral Risk Factor Surveillance System (BRFSS) dataset, which was collected by the **[Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/brfss/annual_data/annual_2021.html)**. The dataset contains information on various health-related behaviors, chronic health conditions, and use of preventive services, making it a valuable resource for predicting cardiovascular disease.
 
-2. **[Data Preprocessing](https://github.com/yourusername/BrainStation_Capstone/blob/main/notebooks/data_preprocessing.ipynb)**: In this notebook, we will perform data cleaning, feature selection, and feature engineering to prepare the data for modeling. Our main goals here are to remove missing values, handle outliers, and transform the data into a suitable format for machine learning algorithms.
+2. **[Data Preprocessing](eda_visualizations.ipynb)**: In this notebook, we will perform data cleaning, feature selection, and feature engineering to prepare the data for modeling. Our main goals here are to remove missing values, handle outliers, and transform the data into a suitable format for machine learning algorithms.
 
 3. **[Exploratory Data Analysis (EDA)](https://github.com/yourusername/BrainStation_Capstone/blob/main/notebooks/eda.ipynb)**: In this notebook, we shall embark on the journey of Exploratory Data Analysis (EDA), a pivotal phase in our project. EDA assumes a critical role by affording us the opportunity to gain profound insights, identify prevailing patterns, and unveil underlying trends within the dataset. Employing a diverse array of visualizations and robust statistical techniques, we shall diligently explore the data, extracting meaningful and valuable information that will substantially influence our decision-making process throughout the development of the predictive model.
 
@@ -22,11 +22,9 @@ This capstone project follows a structured approach, comprising the following ke
 ## 📑 Resources
 I have organized the following resources for easy access:
 
-- **Data Source**: The original Heart Disease UCI dataset can be found on [Kaggle](https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset).
-
-- **Standup Progress Presentation**: This is a [presentation](https://github.com/yourusername/BrainStation_Capstone/blob/main/reports/progress_presentation.pdf) of the progress made during development.
+- **Data Source**: The original Heart Disease dataset can be found on [Kaggle](https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset).
 
 ## 📬 Contact
-Thank you for your interest in my cardiovascular disease prediction project! If you have any questions or suggestions or simply want to discuss anything related to the project, please don't hesitate to reach out through this GitHub repository or via email at [youremail@example.com](mailto:youremail@example.com). I'm excited to share this project with the community and look forward to receiving valuable feedback.
+Thank you for your interest in my cardiovascular disease prediction project! If you have any questions or suggestions or simply want to discuss anything related to the project, please don't hesitate to reach out through this GitHub repository or via email at [dianengalu@gmail.com](mailto:dianengalu@gmail.com). I'm excited to share this project with the community and look forward to receiving valuable feedback.
 
 Stay healthy! ❤️
